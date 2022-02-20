@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules
+
+#output
+dist/*
+public/
+
+# bit directories
+.bit
